@@ -93,7 +93,7 @@ main {
 }
 .split1 > .split1-left > aside > div:nth-child(2) > p:nth-child(1) {
   font-size: 1.8rem;
-  color: var(--Very-dark-blue);
+  color: var(--Dark-grayish-blue);
   padding-left: 1rem;
   line-height: 3rem;
   font-weight: 700;
