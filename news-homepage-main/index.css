@@ -208,7 +208,7 @@ main {
   color: var(--Dark-grayish-blue);
 }
 
-@media (max-width:375px) {
+@media (max-width:475px) {
   html {
     font-size: 50%;
   }
