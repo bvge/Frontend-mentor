@@ -1,6 +1,6 @@
-<p> Hello World</p>
+<p> Hello World </p>
 
-Welcomet to my first test as a Fullstack Dev
+Welcome to my first test as a Fullstack Dev
 Basically Just wroking with html and css here as i'm still a noob around this time
 
 I'm working with exactly what i see. so Desktop + mobile view only (!ipads)
