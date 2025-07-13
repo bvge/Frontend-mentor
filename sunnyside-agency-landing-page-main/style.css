@@ -36,7 +36,7 @@
 
 .homeView {
   height: 100vh;
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-header.jpg);
+  background-image: url(/images/desktop/image-header.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -177,14 +177,14 @@
 }
 
 .body2 > div:nth-child(2) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-transform.jpg);
+  background-image: url(/images/desktop/image-transform.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .body2 > div:nth-child(3) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-stand-out.jpg);
+  background-image: url(/images/desktop/image-stand-out.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -243,7 +243,7 @@
 
 /* div 5 and 6 starts here */
 .body2 > div:nth-child(5) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-graphic-design.jpg);
+  background-image: url(/images/desktop/image-graphic-design.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -253,7 +253,7 @@
 }
 
 .body2 > div:nth-child(6) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-photography.jpg);
+  background-image: url(/images/desktop/image-photography.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -367,25 +367,25 @@
   height: 60vh;
 }
 .body4>div:nth-child(1){
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-gallery-milkbottles.jpg);
+  background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .body4>div:nth-child(2){
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-gallery-orange.jpg);
+  background-image: url(/images/desktop/image-gallery-orange.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .body4>div:nth-child(3){
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-gallery-cone.jpg);
+  background-image: url(/images/desktop/image-gallery-cone.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .body4>div:nth-child(4){
-  background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-gallery-sugarcubes.jpg);
+  background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -431,7 +431,7 @@ footer>.socialslogo>a{
   height: 20px;
 }
 footer>.socialslogo>a:nth-child(1){
-  background-image: url(/sunnyside-agency-landing-page-main/images/icon-facebook.svg);
+  background-image: url(/images/icon-facebook.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -442,7 +442,7 @@ footer>.socialslogo>a:nth-child(1):hover{
 }
 
 footer>.socialslogo>a:nth-child(2){
-  background-image: url(/sunnyside-agency-landing-page-main/images/icon-twitter.svg);
+  background-image: url(/images/icon-twitter.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -453,7 +453,7 @@ footer>.socialslogo>a:nth-child(2):hover{
 }
 
 footer>.socialslogo>a:nth-child(3){
-  background-image: url(/sunnyside-agency-landing-page-main/images/icon-instagram.svg);
+  background-image: url(/images/icon-instagram.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -464,7 +464,7 @@ footer>.socialslogo>a:nth-child(3):hover{
 }
 
 footer>.socialslogo>a:nth-child(4){
-  background-image: url(/sunnyside-agency-landing-page-main/images/icon-pinterest.svg);
+  background-image: url(/images/icon-pinterest.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -507,7 +507,7 @@ footer>.socialslogo>a:nth-child(4):hover{
  }
 
 .homeView {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-header.jpg);
+  background-image: url(/images/mobile/image-header.jpg);
 }
 
 .body2 {
@@ -551,13 +551,13 @@ footer>.socialslogo>a:nth-child(4):hover{
   text-align: center;
 }
 .body2 > div:nth-child(2) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-transform.jpg);
+  background-image: url(/images/mobile/image-transform.jpg);
   order: -1;
   height: 50vh;
 }
 
 .body2 > div:nth-child(3) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-stand-out.jpg);
+  background-image: url(/images/mobile/image-stand-out.jpg);
   height: 50vh;
 }
 
@@ -588,12 +588,12 @@ footer>.socialslogo>a:nth-child(4):hover{
 
 /* div 5 and 6 starts here */
 .body2 > div:nth-child(5) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-graphic-design.jpg);
+  background-image: url(/images/mobile/image-graphic-design.jpg);
   height: 90vh;
 }
 
 .body2 > div:nth-child(6) {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-photography.jpg);
+  background-image: url(/images/mobile/image-photography.jpg);
   height: 90vh;
 }
 
@@ -630,17 +630,17 @@ footer>.socialslogo>a:nth-child(4):hover{
   height: 80vh;
 }
 .body4>div:nth-child(1){
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-gallery-milkbottles.jpg);
+  background-image: url(/images/mobile/image-gallery-milkbottles.jpg);
 }
 .body4>div:nth-child(2){
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-gallery-orange.jpg);
+  background-image: url(/images/mobile/image-gallery-orange.jpg);
 }
 .body4>div:nth-child(3){
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-gallery-cone.jpg);
+  background-image: url(/images/mobile/image-gallery-cone.jpg);
 }
 
 .body4>div:nth-child(4){
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-gallery-sugar-cubes.jpg);
+  background-image: url(/images/mobile/image-gallery-sugar-cubes.jpg);
 }
 
 
